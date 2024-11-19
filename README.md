@@ -1,7 +1,7 @@
 
 
 ## Bienvenue sur le CV de INES CHARFI 👋
- 
+ <img src="C:\Users\inesm\Desktop\ines-charfi\Purple and Blue Modern Y2K Thank You 10K Followers Banner.png">
 
 
 Je suis **étudiante en cybersécurité** passionnée par la protection des systèmes informatiques et la gestion des risques liés à la sécurité des données. Mon objectif est d’acquérir des compétences pratiques et avoir une expérience proffessionnelle.
