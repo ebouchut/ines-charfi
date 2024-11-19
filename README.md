@@ -1,6 +1,6 @@
 
 
-## bienvenue sur le CV de INES CHARFI 👋
+## Bienvenue sur le CV de INES CHARFI 👋
  
 
 
