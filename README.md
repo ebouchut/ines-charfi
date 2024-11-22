@@ -41,10 +41,7 @@ Voici un aperçu de mes contributions sur GitHub :
 ### 📱 Me contacter
 
 - **LinkedIn** : https://www.linkedin.com/in/ines%20charfi
-- <a href="https://github.com/ines-charfi/ines-charfi.git"> 
-            <img src="github.jpg "alt="Github" width="50px" height="50px">
-          </a>
-  **GitHub** : https://github.com/ines-charfi
+- **GitHub** : https://github.com/ines-charfi
 - Email: ines.charfi@laplateforme.io
 - Numéro de téléphone : 0782080277
 ### 🏆 Mes Trophées GitHub
