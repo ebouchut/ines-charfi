@@ -25,7 +25,7 @@ Voici quelques projets que j'ai réalisés pendant ma formation ou lors de proje
 
 * Réaliser un cv avec HTLM
 * Réaliser un site de vente de fleurs Bloompetals
-* Réaliser U site fansites
+* Réaliser un site fansites
 * Configuration matérielle et virtualisation de machine sous Windows et Debian12
 
  ### 📈 Statistiques GitHub 
