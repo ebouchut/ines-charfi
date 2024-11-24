@@ -1,5 +1,6 @@
 
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+</div>
 ## Bienvenue sur le Portefolio de INES CHARFI 👋
 <img src="https://github.com/ines-charfi/ines-charfi/blob/main/Purple%20and%20Blue%20Modern%20Y2K%20Thank%20You%2010K%20Followers%20Banner.png" />
 
@@ -17,7 +18,7 @@ Je suis **étudiante en cybersécurité** passionnée par la protection des syst
  **Compétences clés** :
 
 - Bureautiques : word, ppt, Excel
-- language : HTML5, css, C++
+- language : HTML5, css, C++ 
 - Systèmes d'exploitations: Windows, Linux(debian12)
 - Installation VM
 ### 🚀 Projets réalisés:
