@@ -18,9 +18,33 @@ Je suis **étudiante en cybersécurité** passionnée par la protection des syst
  **Compétences clés** :
 
 - Bureautiques : word, ppt, Excel
-- language : HTML5, css, C++ 
+- language : HTML5, css, C++ , Python
 - Systèmes d'exploitations: Windows, Linux(debian12)
 - Installation VM
+  <div class="skill">
+                    <img src="html css.png" alt="HTML" class="skill-icon">
+                    <p>HTML</p>
+                </div>
+                
+                <div class="skill">
+                    <img src="py.jpg" alt="Python" class="skill-icon">
+                    <p>Python</p>
+                </div>
+                
+                <div class="skill">
+                    <img src="git.jpg" alt="GitHub" class="skill-icon">
+                    <p>GitHub</p>
+                </div>
+                <div class="skill">
+                    <img src="viturl.jpg" alt="LinkedIn" class="skill-icon">
+                    <p>Vmware</p>
+                </div>
+                <div class="skill">
+                    <img src="vm.png" alt="Virtualisation" class="skill-icon">
+                    <p>Virtualisation sous Windows/Debian</p>
+                </div>
+            </div>
+        </section>
 ### 🚀 Projets réalisés:
 Voici quelques projets que j'ai réalisés pendant ma formation ou lors de projets personnels :
 
