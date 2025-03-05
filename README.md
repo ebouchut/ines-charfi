@@ -18,9 +18,13 @@ Je suis **étudiante en cybersécurité** passionnée par la protection des syst
  **Compétences clés** :
 
 - Bureautiques : word, ppt, Excel
-- language : HTML5, css, C++ , Python
+- language : HTML5, css, C++ , Python, PHP, SQL
 - Systèmes d'exploitations: Windows, Linux(debian12)
 - Installation VM
+- Outils de gestion de projet : Trello, Canva
+- Outils de conception de projet: Merise , UML , Draw.io
+- Sécurité des systèmes informatiques : parefeu, serveur DHCP...
+  
 
 ### 🚀 Projets réalisés:
 Voici quelques projets que j'ai réalisés pendant ma formation ou lors de projets personnels :
@@ -28,8 +32,13 @@ Voici quelques projets que j'ai réalisés pendant ma formation ou lors de proje
 * Réaliser un cv avec HTLM
 * Réaliser un site de vente de fleurs Bloompetals
 * Réaliser un site fansites
+* Réaliser un site NEO_MATCHA
+* Réaliser un gestionnaire de menu
+* Réaliser un QUIZ_NIGHT
+* Réaliser un LIVRE_OR
 * Configuration matérielle et virtualisation de machine sous Windows et Debian12
 * Jeu Morpion en Python avec un bot intelligent
+
 
  ### 📈 Statistiques GitHub 
 
