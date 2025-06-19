@@ -18,7 +18,7 @@ Je suis **étudiante en cybersécurité** passionnée par la protection des syst
  **Compétences clés** :
 
 - Bureautiques : word, ppt, Excel
-- language : HTML5, css, C++ , Python, PHP, SQL
+- language : HTML5, css, C++ , Python, PHP, SQL , Javascript , React
 - Systèmes d'exploitations: Windows, Linux(debian12)
 - Installation VM
 - Outils de gestion de projet : Trello, Canva
