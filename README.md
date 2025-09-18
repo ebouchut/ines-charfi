@@ -10,6 +10,7 @@ Je suis **étudiante en cybersécurité** passionnée par la protection des syst
 
 
 ### 🎓 Formation et compétences
+
 - **Formation** :
 - Maitrise en informatique appliquée à la gestion en Tunisie.
 - Master proffessionnel en sécurité informatique en Tunisie .
@@ -27,6 +28,7 @@ Je suis **étudiante en cybersécurité** passionnée par la protection des syst
   
 
 ### 🚀 Projets réalisés:
+
 Voici quelques projets que j'ai réalisés pendant ma formation ou lors de projets personnels :
 
 * Réaliser un cv avec HTLM
